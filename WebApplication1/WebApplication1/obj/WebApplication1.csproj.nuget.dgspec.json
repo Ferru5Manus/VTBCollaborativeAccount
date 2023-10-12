@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\VTBService.csproj": {}
+    "C:\\VTBCollaborativeAccount\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\VTBService.csproj": {
+    "C:\\VTBCollaborativeAccount\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\VTBService.csproj",
-        "projectName": "VTBService",
-        "projectPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\VTBService.csproj",
+        "projectUniqueName": "C:\\VTBCollaborativeAccount\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "C:\\VTBCollaborativeAccount\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\MyUser\\.nuget\\packages\\",
-        "outputPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\obj\\",
+        "outputPath": "C:\\VTBCollaborativeAccount\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,13 +38,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Grpc.AspNetCore": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[2.49.0, )"
+              "version": "[7.0.11, )"
             },
-            "Newtonsoft.Json": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

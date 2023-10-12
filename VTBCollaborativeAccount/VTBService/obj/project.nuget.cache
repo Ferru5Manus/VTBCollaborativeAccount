@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GmXJ0lF8C2pwBllBBaVEQ/3FtY5Zi9clGMZ47EMNZlHKkUsTCVj8hTir6HFEKLrmwD3DoDzjjrlcldl5nUw9Ew==",
+  "dgSpecHash": "TNLvso2csD4HBLmLMD3kM235NUokkr6qcP6Fadr/0sUNgRtcbnvE/TrQMxn41wgVHajc/vkuoCa71wrWYQE7fw==",
   "success": true,
   "projectFilePath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBService\\VTBService.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\MyUser\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\MyUser\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\MyUser\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\MyUser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\MyUser\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
