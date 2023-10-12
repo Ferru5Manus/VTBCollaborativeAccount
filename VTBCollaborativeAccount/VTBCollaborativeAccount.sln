@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTBCollaborativeAccount", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTBService", "VTBService\VTBService.csproj", "{A6D3D25E-0285-4699-AF6D-82C8D08BE582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{FD58C460-B970-420A-9274-EAEFC9C2EB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDatabaseService", "AuthDatabaseService\AuthDatabaseService.csproj", "{2B02FB98-4A59-4362-8023-C578CF01F115}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{A6D3D25E-0285-4699-AF6D-82C8D08BE582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6D3D25E-0285-4699-AF6D-82C8D08BE582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6D3D25E-0285-4699-AF6D-82C8D08BE582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD58C460-B970-420A-9274-EAEFC9C2EB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD58C460-B970-420A-9274-EAEFC9C2EB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD58C460-B970-420A-9274-EAEFC9C2EB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD58C460-B970-420A-9274-EAEFC9C2EB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B02FB98-4A59-4362-8023-C578CF01F115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B02FB98-4A59-4362-8023-C578CF01F115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B02FB98-4A59-4362-8023-C578CF01F115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B02FB98-4A59-4362-8023-C578CF01F115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

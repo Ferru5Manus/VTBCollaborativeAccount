@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount.csproj": {}
+    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthDatabaseService\\AuthDatabaseService.csproj": {}
   },
   "projects": {
-    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount.csproj": {
+    "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthDatabaseService\\AuthDatabaseService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount.csproj",
-        "projectName": "VTBCollaborativeAccount",
-        "projectPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount.csproj",
+        "projectUniqueName": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthDatabaseService\\AuthDatabaseService.csproj",
+        "projectName": "AuthDatabaseService",
+        "projectPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthDatabaseService\\AuthDatabaseService.csproj",
         "packagesPath": "C:\\Users\\MyUser\\.nuget\\packages\\",
-        "outputPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\obj\\",
+        "outputPath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthDatabaseService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyUser\\AppData\\Roaming\\NuGet\\NuGet.Config"

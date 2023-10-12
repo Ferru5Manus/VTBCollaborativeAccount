@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UdRL84iosKAfST4oSyUcqLy3cQ1fRe2jGu2m5D0iAAsR2h2X5hIC2q7vi/CYo5DBB0/QioBke8hFWO8lrHld1w==",
+  "dgSpecHash": "rvOU5uPIWf8hcYel3XLwXX2A6H3ZOZ69h8HnDkwdmHvXDyWUDGZk82Hy1b3Dp57GUV7EWPE/BdQ8Ji0COJfMAA==",
   "success": true,
-  "projectFilePath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\VTBCollaborativeAccount.csproj",
+  "projectFilePath": "C:\\VTBCollaborativeAccount\\VTBCollaborativeAccount\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyUser\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\MyUser\\.nuget\\packages\\grpc.aspnetcore\\2.49.0\\grpc.aspnetcore.2.49.0.nupkg.sha512",
