@@ -1,0 +1,14 @@
+﻿[{
+  "ServiceName": "vtp_db",
+  "Server": "localhost",
+  "User" : "postgres",
+  "Password" : "root",
+  "DatabaseName" : "vtbdb" 
+},
+  {
+    "ServiceName": "auth_db",
+    "Server": "localhost",
+    "User" : "postgres",
+    "Password" : "root",
+    "DatabaseName" : "authdb"
+  }]

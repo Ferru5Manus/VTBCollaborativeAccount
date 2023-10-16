@@ -1,0 +1,18 @@
+﻿[ 
+  {
+  "Name":"config",
+  "Host":"localhost",
+  "Port":5071
+  },
+  {
+    "Name":"news",
+    "Host":"localhost",
+    "Port":5050
+  },
+  {
+    "Name":"auth",
+    "Host":"localhost",
+    "Port":5001
+  }
+]
+

@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Authdbservice.cs \
+obj\Debug\net7.0\Protos/AuthdbserviceGrpc.cs: Protos/authdbservice.proto

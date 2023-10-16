@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Vtbservice.cs \
+obj\Debug\net7.0\Protos/VtbserviceGrpc.cs: Protos/vtbservice.proto

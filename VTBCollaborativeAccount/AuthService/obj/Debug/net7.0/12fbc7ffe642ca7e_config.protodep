@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Config.cs \
+obj\Debug\net7.0\Protos/ConfigGrpc.cs: Protos/config.proto

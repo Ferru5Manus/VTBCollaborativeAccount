@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "AuthService.Communicators";
+
+package vtb_service;
+
+service VTB_Service{
+  rpc GetAuthLink (AuthRequest) returns (AuthReply);
+}
+message AuthRequest{ 
+  
+}
+message AuthReply{
+  string url=1;
+}

@@ -1,0 +1,6 @@
+﻿[
+  {
+    "RequestName" : "Authorization",
+    "Url" : "https://hackaton.bankingapi.ru/api/vtbid/v1/oauth2/authorize"
+  }
+]

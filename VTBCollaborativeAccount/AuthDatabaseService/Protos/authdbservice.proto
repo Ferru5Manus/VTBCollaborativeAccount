@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+
+option  csharp_namespace = "AuthDatabaseService.Services";
+
+package authdb;
+
+service AuthDb{
+  rpc InintiateAuth (InitiateAuthRequest) returns (InitiateAuthReply);
+}
+message InitiateAuthRequest{
+  
+}
+message InitiateAuthReply{
+  string uuid =1;
+}
